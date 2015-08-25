@@ -22,7 +22,7 @@ Para saber mais sobre a sintaxe utilizada na documentação acesse
 * `npm run build` constrói todo o HTML de todos os projetos nesta pasta, caso
 queira gerar o HTML de apenas um projeto passe o nome da pasta como argumento:
 `npm run build -- exemplo`.
-* `npm run server` -- exemplo inicia um servidor web que irá disponibilizar a
+* `npm run server -- exemplo` inicia um servidor web que irá disponibilizar a
 pasta com o HTML do projeto para acesso via navegador. Após executar o comando
 acesse a URL http://localhost:8080 para verificar o HTML.
 
