@@ -1,0 +1,7 @@
+site_name: Exemplo de Documentação
+pages:
+- ['index.md', 'Página inicial']
+- ['sobre.md', 'Mais informações', 'Quem somos']
+- ['subsecao.md', 'Mais informações', 'Subseção']
+site_dir: ../public/exemplo
+theme: readthedocs

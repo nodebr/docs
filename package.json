@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Documentações de módulos traduzidas para pt_BR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./index.js build",
+    "server": "node ./index.js server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebr/docs.git"
+  },
+  "keywords": [
+    "documentações",
+    "traduções",
+    "nodebr"
+  ],
+  "author": "NodeBR <nodebr@nodebr.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodebr/docs/issues"
+  },
+  "homepage": "https://github.com/nodebr/docs#readme"
+}
